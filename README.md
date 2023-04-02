@@ -7,3 +7,4 @@ Implementation of minimax algorithm for adversarial search with alpha-beta pruni
 3. Choose a symbol and try to beat the computer.
 
 ### Screenshot of an app:
+![App window](/Screenshots/tictactoe.PNG)
