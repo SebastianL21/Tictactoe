@@ -6,5 +6,5 @@ Implementation of minimax algorithm for adversarial search with alpha-beta pruni
 2. Run `runner.py` file
 3. Choose a symbol and try to beat the computer.
 
-### Screenshot of an app:
+### Screenshot of the app:
 ![App window](/Screenshots/tictactoe.PNG)
